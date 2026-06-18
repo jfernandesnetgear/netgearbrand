@@ -1,0 +1,16 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="2.5" y="16" width="13.5" height="13.5" rx="2.07692" stroke="black" stroke-width="1.5"/>
+<circle cx="2.33333" cy="2.33337" r="1" fill="black"/>
+<circle cx="2.33333" cy="9" r="1" fill="black"/>
+<circle cx="9" cy="2.33337" r="1" fill="black"/>
+<circle cx="15.6667" cy="2.33337" r="1" fill="black"/>
+<circle cx="22.3333" cy="2.33337" r="1" fill="black"/>
+<circle cx="22.3333" cy="29" r="1" fill="black"/>
+<circle cx="29" cy="2.33337" r="1" fill="black"/>
+<circle cx="29" cy="29" r="1" fill="black"/>
+<circle cx="29" cy="15.6667" r="1" fill="black"/>
+<circle cx="29" cy="22.3334" r="1" fill="black"/>
+<circle cx="29" cy="9" r="1" fill="black"/>
+<path d="M22.5 16V9.5H16" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M15.5 16.5L22.5 9.5" stroke="black" stroke-width="1.5" stroke-linecap="round"/>
+</svg>
